@@ -298,9 +298,9 @@
   
   .about-img {
     position: relative;
-    width: 40rem;
-    height: 30rem;
-    border-radius: 70%;
+    width: 35rem;
+    height: 25rem;
+    border-radius: 60%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -308,7 +308,7 @@
   
   .about-img img {
     width: 90%;
-    border-radius: 70%;
+    border-radius: 60%;
     border: 0.2rem solid var(--main-color);
   }
   
