@@ -160,9 +160,9 @@
     position: relative;
     display: flex;
     justify-content: space-between;
-    width: 34.5rem;
-    height: 5rem;
-    gap: 20px;
+    width: 32rem;
+    height: 4rem;
+    gap: 30px;
   }
   
   .btn-box .btn {
