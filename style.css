@@ -217,8 +217,8 @@
   }
   .home-sci {
     position: absolute;
-    bottom: 6rem;
-    width: 90px;
+    bottom: 9rem;
+    width: 100px;
     display: flex;
     justify-content: space-between;
   }
@@ -857,7 +857,7 @@
       }
     
       .home-sci {
-        width: 160px;
+        width: 100px;
       }
     
       .home-sci a {
