@@ -217,8 +217,8 @@
   }
   .home-sci {
     position: absolute;
-    bottom: 4rem;
-    width: 170px;
+    bottom: 6rem;
+    width: 90px;
     display: flex;
     justify-content: space-between;
   }
