@@ -162,6 +162,7 @@
     justify-content: space-between;
     width: 34.5rem;
     height: 5rem;
+    gap: 20px;
   }
   
   .btn-box .btn {
